@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 500px;
+    margin: 0 0 20px 0;
+}
+
+button {
+    cursor: pointer;
+    background-color: indianred;
+    border: none;
+    color: white;
+    text-align: center;
+    padding: 15px 32px;
+    border-radius: 10px;
+    width: fit-content;
+}
